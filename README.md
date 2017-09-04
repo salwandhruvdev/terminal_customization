@@ -13,4 +13,9 @@ The author of this page uses the following tools:
 - Oh-My-Zsh
 - i-term2
 
-I plan to write a shell script which would contain all the installation steps (WIP)
+Today(09-02-2017), I was able to try out Configuration from the link above and it turned out AWESOME! Next step is to put up a script.
+
+This is how my terminal looks like now:
+
+![](https://github.com/salwandhruvdev/terminal_customization/blob/master/color_scheme/test_image.png )
+
