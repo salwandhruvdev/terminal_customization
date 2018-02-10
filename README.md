@@ -13,7 +13,7 @@ The author of this page uses the following tools:
 - Oh-My-Zsh
 - i-term2
 
-Today(09-02-2017), I was able to try out Configuration from the link above and it turned out AWESOME! Next step is to put up a script.
+Today(09-02-2017), I was able to try out Configuration from the link above and it turned out AWESOME! Next step is to put up a script(COMING SOON).
 
 This is how my terminal looks like now:
 
